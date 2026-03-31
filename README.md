@@ -1,4 +1,4 @@
-# Stock System Frontend - Complete Setup
+# Stock System Frontend
 
 ## Project Structure
 
