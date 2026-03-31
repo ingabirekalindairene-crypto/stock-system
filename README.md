@@ -135,5 +135,3 @@ Logout
 6. Deploy to production
 
 ---
-
-**Everything is styled and ready to use!** 🚀
