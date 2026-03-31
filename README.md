@@ -124,14 +124,3 @@ View all requests
 Create new requests
 See request status and priority
 Logout
-
-## Next Steps (Optional)
-
-1. Add edit/delete functionality for requests
-2. Add filtering by status/priority
-3. Add search functionality
-4. Add more user roles with different permissions
-5. Add charts/analytics
-6. Deploy to production
-
----
