@@ -24,7 +24,7 @@ frontend/
 
 ## Features Implemented
 
-### ✅ Login Page
+### Login Page
 - Email and password input
 - Error handling
 - Loading state
@@ -32,7 +32,7 @@ frontend/
 - Responsive design
 - Connects to backend API
 
-### ✅ Dashboard Page
+### Dashboard Page
 - User greeting with role display
 - Logout button
 - Create new request form
@@ -44,7 +44,7 @@ frontend/
   - Description
 - Real-time display of requests
 
-### ✅ Styling
+### Styling
 - Modern gradient colors
 - Responsive design (mobile, tablet, desktop)
 - Professional UI
@@ -101,17 +101,17 @@ The app connects to your backend at:
 
 ## Styling Features
 
-✅ **Beautiful Colors:**
+**Beautiful Colors:**
 - Primary: #0a3d62, #1e5f74 (dark blue/teal)
 - Secondary: #667eea, #764ba2 (purple gradient)
 - Accents: Red, Yellow, Green for status badges
 
-✅ **Responsive:**
+**Responsive:**
 - Mobile (< 768px)
 - Tablet
 - Desktop
 
-✅ **Interactive:**
+**Interactive:**
 - Hover effects
 - Focus states on inputs
 - Loading states
@@ -119,11 +119,11 @@ The app connects to your backend at:
 
 ## What You Can Now Do
 
-✅ Login with your registered account
-✅ View all requests
-✅ Create new requests
-✅ See request status and priority
-✅ Logout
+Login with your registered account
+View all requests
+Create new requests
+See request status and priority
+Logout
 
 ## Next Steps (Optional)
 
